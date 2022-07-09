@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h2 align="left">Hi 👋! My name is Lucas and I'm a student of Full Stack Web Development</h2>
 
