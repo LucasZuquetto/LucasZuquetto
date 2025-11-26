@@ -1,7 +1,3 @@
-<h2 align="left">Olá, eu sou o Lucas, Desenvolvedor Full Stack</h2>
-
-###
-
 <h2 align="left">Como entrar em contato</h2>
 
 ###
